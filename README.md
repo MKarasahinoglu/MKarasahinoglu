@@ -1,12 +1,10 @@
 <h1 align="center">Hi , I'm Metehan</h1>
 <br>
-<p align="center"> 
-	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-</p>
 
-<p align="center">
-  About me
+<p align="center"> 
+	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 </p>
+<h2 align="center">About me</h2>
 <br>
 
 - :school: I `Graduated` from [Computer Education and Educational Technology](https://cet.bogazici.edu.tr/) at [Boğaziçi University](https://bogazici.edu.tr/en_US).
@@ -17,8 +15,9 @@
 - :spider_web: [LinkedIn](https://www.linkedin.com/in/metehankarasahinoglu/)
 <br>
 
-
+<p align="center">
 ## 🧰 My Skills
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
