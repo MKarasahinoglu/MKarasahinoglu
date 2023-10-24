@@ -15,9 +15,8 @@
 - :spider_web: [LinkedIn](https://www.linkedin.com/in/metehankarasahinoglu/)
 <br>
 
-<p align="center">
-## 🧰 My Skills
-</p>
+<h2 align="center">:toolbox: My Skills</h2>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
