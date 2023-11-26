@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,MongoDB,express,vue,nodejs,nestjs,postgres,cs,dotnet,git,unity,ai" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,mongodb,express,vue,nodejs,nestjs,postgres,cs,dotnet,git,unity,ai" />
   </a>
 </p>
