@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Metehan</h1>
+<h1 align="center">Hey , I'm Metehan</h1>
 <br>
 
 <p align="center"> 
@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mongodb,express,vue,nodejs,nestjs,postgres,cs,dotnet,git,unity,ai" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,mongodb,express,vue,nodejs,nestjs,postgres,cs,dotnet,git,unity,ai" />
   </a>
 </p>
