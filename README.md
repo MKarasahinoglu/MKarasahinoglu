@@ -9,7 +9,6 @@
 
 - :school: I `Graduated` from [Computer Education and Educational Technology](https://cet.bogazici.edu.tr/) at [Boğaziçi University](https://bogazici.edu.tr/en_US).
 - :computer: I am currently `Working` at [Hub21](https://thehub21.com/) as a `Coding Tutor`.
-- :video_game: :art: I `Love` developing video games and learning `Unity` in my free time as well as performing digital art in `Adobe Illustrator`.
 - :mailbox: [E-mail](mthn.karasahin@gmail.com)
 - :spider_web: [LinkedIn](https://www.linkedin.com/in/metehankarasahinoglu/)
 <br>
@@ -19,6 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,mongodb,express,vue,nodejs,nestjs,postgres,cs,dotnet,git,unity,ai" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,mongodb,express,vue,nodejs,git,ai" />
   </a>
 </p>
